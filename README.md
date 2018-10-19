@@ -3,7 +3,7 @@
 https://github.com/ActsAsParanoid/acts_as_paranoid
 
 ```
-gem ''. ''
+gem 'acts_as_paranoid'. '~> 0.6.0'
 bundle install
 bin/rails g migration AddDeletedAtToParanoiac deleted_at:datetime:index
 
